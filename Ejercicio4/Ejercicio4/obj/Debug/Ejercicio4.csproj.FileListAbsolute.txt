@@ -1,0 +1,6 @@
+C:\Users\brand\Desktop\Estructura 8 Ej\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+C:\Users\brand\Desktop\Estructura 8 Ej\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe
+C:\Users\brand\Desktop\Estructura 8 Ej\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.pdb
+C:\Users\brand\Desktop\Estructura 8 Ej\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\brand\Desktop\Estructura 8 Ej\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.exe
+C:\Users\brand\Desktop\Estructura 8 Ej\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.pdb
